@@ -1,9 +1,3 @@
-<!DOCTYPE html>
-<html>
-<head>
-<title>Page Title</title>
-</head>
-<body>
 
 <h1>212952IAAB</h1>
 <p>Teen selle töö kontrolltöö tõttu. Proovin siia lisada mõne pildi ja natuke teksti.Midagi ilusat ja pikka sellest ei tule kuna ei oska väga veebilehti hetkel arendada.
