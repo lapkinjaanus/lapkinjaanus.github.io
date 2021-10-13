@@ -58,7 +58,7 @@ table, th, td {
 
 <h1>Tulge külla</h1>
 
-<p><a href="https://www.taltech.ee">Külastage taltechi/!</a></p>
+<p><a href="https://www.taltech.ee">Külastage taltechi!</a></p>
 
 </body>
 </html>
