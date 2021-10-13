@@ -9,17 +9,6 @@
 <p>Teen selle töö kontrolltöö tõttu. Proovin siia lisada mõne pildi ja natuke teksti.Midagi ilusat ja pikka sellest ei tule kuna ei oska väga veebilehti hetkel arendada.
 Loodetavasti esimese töö kohta kõige hullem välja ei näe ja antakse positiivne tagasi side selle lehe eest.</p>
 
-</body>
-</html>
-<!DOCTYPE html>
-<html>
-<style>
-table, th, td {
-  border:1px solid black;
-}
-</style>
-<body>
-
 <h2>Loodetavasti see sobib</h2>
 
 <table style="width:100%">
