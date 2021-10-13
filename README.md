@@ -36,12 +36,8 @@ Loodetavasti esimese töö kohta kõige hullem välja ei näe ja antakse positii
 </body>
 </html>
 
-<html>
-<body>
-
 <h1>Tulge külla</h1>
 
 <p><a href="https://www.taltech.ee">Külastage taltechi!</a></p>
 
-</body>
-</html>
+
